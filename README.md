@@ -10,3 +10,5 @@ Bioinformatics Ph.D. candidate, 2021-2025
 Bioinformatics Analyst, Northwestern University, 2018-2021
 - Collaborated with PhD students and psotdoctoral fellows resulting in 3 published papers.
 - Extensive experience in bulk RNA-seq and ChIP-seq analysis from projects investigating role of histone methyl transferases in regulation of gene expression using mouse embryonic stem cell models
+
+## Tweek this one to link other pages and code repo
