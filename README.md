@@ -1,5 +1,4 @@
-# siddharthadas.github.io
-
+# Siddhartha("Sid") Das 
 
 ## Education
 Bioinformatics Ph.D. candidate, 2021-2025
